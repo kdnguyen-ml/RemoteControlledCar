@@ -1,0 +1,1 @@
+"./UART.obj" "./RF_Car_Slave.obj" "./NRF24L01.obj" "./Motor.obj" "./LCD.obj" "./Basic_config.obj" -l"libc.a" "../lnk_msp430g2533.cmd" 

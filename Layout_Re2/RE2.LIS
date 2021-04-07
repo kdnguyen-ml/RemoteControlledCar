@@ -1,0 +1,11 @@
+AutoECO Report
+FILE-A: E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+FILE-B: E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding net N73929
+Deleting VR1.1 from net VDC
+Deleting SW1.3 from net VDC
+Adding VR1.1 to net N73929
+Adding SW1.3 to net N73929
+*EOF*
+No errors found

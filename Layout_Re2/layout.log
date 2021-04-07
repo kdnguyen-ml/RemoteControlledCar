@@ -1,0 +1,1005 @@
+Fri Nov 08 19:50:18 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:50:18 Saved as file BACKUP1.MAX
+Fri Nov 08 19:50:18 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:50:19 UserDiv from Layout.INI for AutoECO: 60
+Fri Nov 08 19:50:19 Loaded file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:50:19 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\BCON100T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\BCON156T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\BGA.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\CLCC.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DCON050T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DCON085T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DIMM050F.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DIMM050T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DIN.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DIP100B.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DIP100T.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DSUBT.llb
+Fri Nov 08 19:50:19 Loaded file d:\work\simulator\orcad\Layout\library\DSUBT_HD.LLB
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\ECON100T.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\FBUS.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\ISA.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\JUMPER.LLB
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\LAYOUT.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\LCON100T.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PC104.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PCI.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PCON100T.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PCON156T.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PGA.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\PLCC.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\QUAD.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\QUADB.llb
+Fri Nov 08 19:50:20 Loaded file d:\work\simulator\orcad\Layout\library\RELAY.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\RF.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SBUS.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SIMM050F.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SIMM050T.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SIMM100F.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SIMM100T.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SIP.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SM.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SOG.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\SOJ.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\STIFF.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TELE.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_AXIAL.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_CAP_P.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_CYLND.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_DIODE.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_DISC.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TM_RAD.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TO.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\TRAINING.LLB
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\VRES.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\WCON100T.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\XT.llb
+Fri Nov 08 19:50:21 Loaded file d:\work\simulator\orcad\Layout\library\ZIGZAG.llb
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:21 Library file not found:USER.PRT
+Fri Nov 08 19:50:21 Library file not found:USER.PRT
+Fri Nov 08 19:50:28 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\data\template.imp
+Fri Nov 08 19:50:28 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\data\template.imp
+Fri Nov 08 19:50:39 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:50 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\data\template.imp
+Fri Nov 08 19:50:51 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 19:50:51 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:50:51 Loaded file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:50:55 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 19:52:03 Saved as file ~undo.max
+Fri Nov 08 19:52:21 Saved as file ~undo.max
+Fri Nov 08 19:52:32 Saved as file ~undo.max
+Fri Nov 08 19:54:41 Saved as file ~undo.max
+Fri Nov 08 19:55:27 Saved as file ~undo.max
+Fri Nov 08 19:57:51 Saved as file ~undo.max
+Fri Nov 08 19:59:40 Saved as file ~undo.max
+Fri Nov 08 20:01:00 Saved as file ~undo.max
+Fri Nov 08 20:01:20 Saved as file ~undo.max
+Fri Nov 08 20:02:20 Saved as file ~undo.max
+Fri Nov 08 20:02:27 Saved as file BACKUP1.MAX
+Fri Nov 08 20:02:31 Saved as file ~undo.max
+Fri Nov 08 20:02:44 Saved as file ~undo.max
+Fri Nov 08 20:02:59 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 20:03:28 Saved as file ~undo.max
+Fri Nov 08 20:04:16 Saved as file ~undo.max
+Fri Nov 08 20:05:04 Saved as file ~undo.max
+Fri Nov 08 20:12:27 Saved as file BACKUP1.MAX
+Fri Nov 08 20:19:10 Saved as file ~undo.max
+Fri Nov 08 20:19:30 Saved as file ~undo.max
+Fri Nov 08 20:19:39 Saved as file ~undo.max
+Fri Nov 08 20:20:17 Saved as file ~undo.max
+Fri Nov 08 20:20:18 Saved as file ~undo.max
+Fri Nov 08 20:22:27 Saved as file BACKUP1.MAX
+Fri Nov 08 20:27:07 Saved as file ~undo.max
+Fri Nov 08 20:27:12 Saved as file ~undo.max
+Fri Nov 08 20:27:18 Saved as file ~undo.max
+Fri Nov 08 20:28:14 Saved as file ~undo.max
+Fri Nov 08 20:28:35 Saved as file ~undo.max
+Fri Nov 08 20:28:57 Saved as file ~undo.max
+Fri Nov 08 20:29:15 Saved as file ~undo.max
+Fri Nov 08 20:29:33 Saved as file ~undo.max
+Fri Nov 08 20:30:13 Saved as file ~undo.max
+Fri Nov 08 20:30:37 Saved as file ~undo.max
+Fri Nov 08 20:30:50 Saved as file ~undo.max
+Fri Nov 08 20:30:59 Saved as file ~undo.max
+Fri Nov 08 20:31:29 Saved as file ~undo.max
+Fri Nov 08 20:32:28 Saved as file BACKUP1.MAX
+Fri Nov 08 20:32:49 Saved as file ~undo.max
+Fri Nov 08 20:33:03 Saved as file ~undo.max
+Fri Nov 08 20:33:22 Saved as file ~undo.max
+Fri Nov 08 20:33:36 Saved as file ~undo.max
+Fri Nov 08 20:33:41 Saved as file ~undo.max
+Fri Nov 08 20:33:59 Saved as file ~undo.max
+Fri Nov 08 20:34:18 Saved as file ~undo.max
+Fri Nov 08 20:34:28 Saved as file ~undo.max
+Fri Nov 08 20:34:59 Saved as file ~undo.max
+Fri Nov 08 20:35:54 Saved as file ~undo.max
+Fri Nov 08 20:36:07 Saved as file ~undo.max
+Fri Nov 08 20:36:47 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 20:37:13 Saved as file ~undo.max
+Fri Nov 08 20:37:31 Saved as file ~undo.max
+Fri Nov 08 20:38:15 Saved as file ~undo.max
+Fri Nov 08 20:38:30 Saved as file ~undo.max
+Fri Nov 08 20:38:57 Saved as file ~undo.max
+Fri Nov 08 20:39:18 Saved as file ~undo.max
+Fri Nov 08 20:39:50 Saved as file ~undo.max
+Fri Nov 08 20:40:18 Saved as file ~undo.max
+Fri Nov 08 20:40:29 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 20:41:08 Saved as file ~undo.max
+Fri Nov 08 20:42:28 Saved as file BACKUP1.MAX
+Fri Nov 08 20:43:03 Saved as file ~undo.max
+Fri Nov 08 20:43:49 Saved as file ~undo.max
+Fri Nov 08 20:44:43 Saved as file ~undo.max
+Fri Nov 08 20:46:02 Saved as file ~undo.max
+Fri Nov 08 20:46:15 Saved as file ~undo.max
+Fri Nov 08 20:47:06 Saved as file ~undo.max
+Fri Nov 08 20:47:44 Saved as file ~undo.max
+Fri Nov 08 20:49:31 Saved as file ~undo.max
+Fri Nov 08 20:50:27 Saved as file ~undo.max
+Fri Nov 08 20:52:28 Saved as file BACKUP1.MAX
+Fri Nov 08 20:52:42 Saved as file ~undo.max
+Fri Nov 08 20:53:08 Saved as file ~undo.max
+Fri Nov 08 20:54:06 Saved as file ~undo.max
+Fri Nov 08 20:54:13 Saved as file ~undo.max
+Fri Nov 08 20:54:32 Saved as file ~undo.max
+Fri Nov 08 20:55:44 Saved as file ~undo.max
+Fri Nov 08 20:55:57 Saved as file ~undo.max
+Fri Nov 08 20:56:19 Saved as file ~undo.max
+Fri Nov 08 20:57:13 Saved as file ~undo.max
+Fri Nov 08 20:57:28 Saved as file ~undo.max
+Fri Nov 08 20:58:24 Saved as file ~undo.max
+Fri Nov 08 20:58:43 Saved as file ~undo.max
+Fri Nov 08 21:00:09 Saved as file ~undo.max
+Fri Nov 08 21:00:16 Saved as file ~undo.max
+Fri Nov 08 21:00:39 Saved as file ~undo.max
+Fri Nov 08 21:00:53 Saved as file ~undo.max
+Fri Nov 08 21:01:10 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:02:29 Saved as file BACKUP1.MAX
+Fri Nov 08 21:02:35 Saved as file ~undo.max
+Fri Nov 08 21:03:03 Saved as file ~undo.max
+Fri Nov 08 21:03:27 Saved as file ~undo.max
+Fri Nov 08 21:03:33 Saved as file ~undo.max
+Fri Nov 08 21:06:07 Saved as file ~undo.max
+Fri Nov 08 21:06:48 Saved as file ~undo.max
+Fri Nov 08 21:06:52 Saved as file ~undo.max
+Fri Nov 08 21:07:02 Saved as file ~undo.max
+Fri Nov 08 21:09:47 Saved as file ~undo.max
+Fri Nov 08 21:12:29 Saved as file BACKUP1.MAX
+Fri Nov 08 21:13:03 Saved as file ~undo.max
+Fri Nov 08 21:13:43 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:15:45 Saved as file ~undo.max
+Fri Nov 08 21:16:26 Saved as file ~undo.max
+Fri Nov 08 21:18:46 Saved as file ~undo.max
+Fri Nov 08 21:19:41 Saved as file ~undo.max
+Fri Nov 08 21:20:29 Saved as file ~undo.max
+Fri Nov 08 21:21:57 Saved as file ~undo.max
+Fri Nov 08 21:22:03 Saved as file ~undo.max
+Fri Nov 08 21:22:06 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:22:29 Saved as file BACKUP1.MAX
+Fri Nov 08 21:24:46 Saved as file ~undo.max
+Fri Nov 08 21:25:00 Saved as file ~undo.max
+Fri Nov 08 21:25:44 Saved as file ~undo.max
+Fri Nov 08 21:26:21 Saved as file ~undo.max
+Fri Nov 08 21:26:34 Saved as file ~undo.max
+Fri Nov 08 21:27:02 Saved as file ~undo.max
+Fri Nov 08 21:27:39 Saved as file ~undo.max
+Fri Nov 08 21:29:03 Saved as file ~undo.max
+Fri Nov 08 21:29:31 Saved as file ~undo.max
+Fri Nov 08 21:29:58 Saved as file ~undo.max
+Fri Nov 08 21:30:19 Saved as file ~undo.max
+Fri Nov 08 21:30:52 Saved as file ~undo.max
+Fri Nov 08 21:31:07 Saved as file ~undo.max
+Fri Nov 08 21:31:14 Saved as file ~undo.max
+Fri Nov 08 21:31:28 Saved as file ~undo.max
+Fri Nov 08 21:32:09 Saved as file ~undo.max
+Fri Nov 08 21:32:17 Saved as file ~undo.max
+Fri Nov 08 21:32:29 Saved as file BACKUP1.MAX
+Fri Nov 08 21:33:14 Saved as file ~undo.max
+Fri Nov 08 21:34:15 Saved as file ~undo.max
+Fri Nov 08 21:34:52 Saved as file ~undo.max
+Fri Nov 08 21:37:32 Saved as file ~undo.max
+Fri Nov 08 21:37:53 Saved as file ~undo.max
+Fri Nov 08 21:38:32 Saved as file ~undo.max
+Fri Nov 08 21:38:46 Saved as file ~undo.max
+Fri Nov 08 21:39:03 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:39:56 Saved as file ~undo.max
+Fri Nov 08 21:41:19 Saved as file ~undo.max
+Fri Nov 08 21:41:31 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:42:08 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:42:26 Saved as file ~undo.max
+Fri Nov 08 21:42:27 Saved as file ~undo.max
+Fri Nov 08 21:42:27 Saved as file ~undo.max
+Fri Nov 08 21:42:27 Saved as file ~undo.max
+Fri Nov 08 21:42:34 Saved as file ~undo.max
+Fri Nov 08 21:42:34 Saved as file ~undo.max
+Fri Nov 08 21:42:35 Saved as file ~undo.max
+Fri Nov 08 21:42:35 Saved as file ~undo.max
+Fri Nov 08 21:43:00 Saved as file ~undo.max
+Fri Nov 08 21:44:05 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:52:42 Saved as file BACKUP1.MAX
+Fri Nov 08 21:53:24 Saved as file ~undo.max
+Fri Nov 08 21:56:18 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 21:58:53 Saved as file ~undo.max
+Fri Nov 08 22:00:06 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:02:36 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:03:10 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:03:42 Saved as file BACKUP1.MAX
+Fri Nov 08 22:03:43 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:04:17 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:04:29 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:13:09 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:13:31 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:14:28 Saved as file ~undo.max
+Fri Nov 08 22:16:00 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:00 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:01 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:01 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:02 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 22:16:04 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:12 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:16:14 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:17:34 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:17:34 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:17:34 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:17:34 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:17:37 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 22:17:42 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:18:26 Saved as file ~undo.max
+Fri Nov 08 22:18:41 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:18:41 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:18:41 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:18:41 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:18:42 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 22:18:52 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:10 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:10 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:10 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:10 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:12 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:13 Loaded file D:\WORK\SIMULATOR\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Nov 08 22:19:19 Loaded file d:\work\simulator\orcad\Layout\data\template.imp
+Fri Nov 08 22:19:39 Saved as file ~undo.max
+Fri Nov 08 22:19:58 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Fri Nov 08 22:20:24 Saved as file D:\STUDY\PROJECT\XE1\RE2\RE2.MAX
+Mon Jan 06 11:02:17 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Mon Jan 06 11:02:21 Saved as file BACKUP1.MAX
+Mon Jan 06 11:02:22 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Mon Jan 06 11:02:26 UserDiv from Layout.INI for AutoECO: 60
+Mon Jan 06 11:02:27 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Mon Jan 06 11:02:28 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Mon Jan 06 11:02:29 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Mon Jan 06 11:02:31 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Mon Jan 06 11:02:32 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Mon Jan 06 11:02:33 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Mon Jan 06 11:02:34 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Mon Jan 06 11:02:35 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Mon Jan 06 11:02:36 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Mon Jan 06 11:02:37 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Mon Jan 06 11:02:38 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Mon Jan 06 11:02:39 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Mon Jan 06 11:02:40 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Mon Jan 06 11:02:41 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Mon Jan 06 11:02:42 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Mon Jan 06 11:02:43 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Mon Jan 06 11:02:44 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Mon Jan 06 11:02:45 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Mon Jan 06 11:02:46 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Mon Jan 06 11:02:47 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Mon Jan 06 11:02:48 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Mon Jan 06 11:02:49 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Mon Jan 06 11:02:50 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Mon Jan 06 11:02:51 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Mon Jan 06 11:02:52 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Mon Jan 06 11:02:53 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Mon Jan 06 11:02:54 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Mon Jan 06 11:02:56 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Mon Jan 06 11:02:57 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Mon Jan 06 11:02:58 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Mon Jan 06 11:02:59 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Mon Jan 06 11:03:00 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Mon Jan 06 11:03:01 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Mon Jan 06 11:03:02 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Mon Jan 06 11:03:03 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Mon Jan 06 11:03:04 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Mon Jan 06 11:03:05 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Mon Jan 06 11:03:06 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Mon Jan 06 11:03:07 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Mon Jan 06 11:03:08 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Mon Jan 06 11:03:09 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Mon Jan 06 11:03:10 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Mon Jan 06 11:03:11 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Mon Jan 06 11:03:12 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Mon Jan 06 11:03:13 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Mon Jan 06 11:03:14 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Mon Jan 06 11:03:15 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Mon Jan 06 11:03:16 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Mon Jan 06 11:03:17 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Mon Jan 06 11:03:18 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Mon Jan 06 11:03:19 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Mon Jan 06 11:03:21 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Mon Jan 06 11:03:22 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Mon Jan 06 11:03:24 Library file not found:USER.PRT
+Mon Jan 06 11:03:25 Library file not found:USER.PRT
+Mon Jan 06 11:03:31 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\data\template.imp
+Mon Jan 06 11:03:32 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\data\template.imp
+Mon Jan 06 11:03:34 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Mon Jan 06 11:07:10 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Mon Jan 06 11:07:44 Error code 5200.306
+Mon Jan 06 11:07:44 Saved as file Backup0.max
+Mon Jan 06 11:07:44 Windows which were open at time of error:
+Mon Jan 06 11:07:44 	ActiveWindow: Library Manager
+Mon Jan 06 11:07:44 End-of-list
+Mon Jan 06 11:07:44 Loaded file BACKUP0.MAX
+Wed Jan 08 09:33:01 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:33:02 Saved as file BACKUP1.MAX
+Wed Jan 08 09:33:02 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:33:02 UserDiv from Layout.INI for AutoECO: 60
+Wed Jan 08 09:33:02 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:33:02 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Wed Jan 08 09:33:02 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Wed Jan 08 09:33:03 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 09:33:03 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:33:03 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:33:15 Saved as file ~undo.max
+Wed Jan 08 09:34:55 Saved as file ~undo.max
+Wed Jan 08 09:35:33 Saved as file ~undo.max
+Wed Jan 08 09:35:36 Saved as file ~undo.max
+Wed Jan 08 09:36:20 Saved as file ~undo.max
+Wed Jan 08 09:37:20 Saved as file ~undo.max
+Wed Jan 08 09:43:05 Saved as file BACKUP1.MAX
+Wed Jan 08 09:45:33 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 09:47:47 Saved as file ~undo.max
+Wed Jan 08 09:48:43 Saved as file ~undo.max
+Wed Jan 08 09:49:39 Saved as file ~undo.max
+Wed Jan 08 09:53:02 Saved as file ~undo.max
+Wed Jan 08 09:54:40 Saved as file ~undo.max
+Wed Jan 08 09:55:06 Saved as file BACKUP1.MAX
+Wed Jan 08 09:55:48 Saved as file ~undo.max
+Wed Jan 08 09:57:12 Saved as file ~undo.max
+Wed Jan 08 09:57:45 Saved as file ~undo.max
+Wed Jan 08 09:58:10 Saved as file ~undo.max
+Wed Jan 08 09:58:41 Saved as file ~undo.max
+Wed Jan 08 09:59:05 Saved as file ~undo.max
+Wed Jan 08 10:01:28 Saved as file ~undo.max
+Wed Jan 08 10:02:32 Saved as file ~undo.max
+Wed Jan 08 10:02:52 Saved as file ~undo.max
+Wed Jan 08 10:03:52 Saved as file ~undo.max
+Wed Jan 08 10:05:06 Saved as file BACKUP1.MAX
+Wed Jan 08 10:05:39 Saved as file ~undo.max
+Wed Jan 08 10:05:57 Saved as file ~undo.max
+Wed Jan 08 10:06:15 Saved as file ~undo.max
+Wed Jan 08 10:06:25 Saved as file ~undo.max
+Wed Jan 08 10:06:35 Saved as file ~undo.max
+Wed Jan 08 10:07:08 Saved as file ~undo.max
+Wed Jan 08 10:07:24 Saved as file ~undo.max
+Wed Jan 08 10:08:24 Saved as file ~undo.max
+Wed Jan 08 10:09:22 Saved as file ~undo.max
+Wed Jan 08 10:11:02 Saved as file ~undo.max
+Wed Jan 08 10:11:39 Saved as file ~undo.max
+Wed Jan 08 10:12:22 Saved as file ~undo.max
+Wed Jan 08 10:13:23 Saved as file ~undo.max
+Wed Jan 08 10:14:29 Saved as file ~undo.max
+Wed Jan 08 10:15:04 Saved as file ~undo.max
+Wed Jan 08 10:15:06 Saved as file BACKUP1.MAX
+Wed Jan 08 10:15:27 Saved as file ~undo.max
+Wed Jan 08 10:16:37 Saved as file ~undo.max
+Wed Jan 08 10:17:29 Saved as file ~undo.max
+Wed Jan 08 10:17:59 Saved as file ~undo.max
+Wed Jan 08 10:18:30 Saved as file ~undo.max
+Wed Jan 08 10:19:46 Saved as file ~undo.max
+Wed Jan 08 10:20:34 Saved as file ~undo.max
+Wed Jan 08 10:21:47 Saved as file ~undo.max
+Wed Jan 08 10:21:49 Saved as file ~undo.max
+Wed Jan 08 10:22:15 Saved as file ~undo.max
+Wed Jan 08 10:23:15 Saved as file ~undo.max
+Wed Jan 08 10:23:30 Saved as file ~undo.max
+Wed Jan 08 10:23:56 Saved as file ~undo.max
+Wed Jan 08 10:25:06 Saved as file BACKUP1.MAX
+Wed Jan 08 10:25:07 Saved as file ~undo.max
+Wed Jan 08 10:25:28 Saved as file ~undo.max
+Wed Jan 08 10:25:58 Saved as file ~undo.max
+Wed Jan 08 10:26:18 Saved as file ~undo.max
+Wed Jan 08 10:26:50 Saved as file ~undo.max
+Wed Jan 08 10:27:14 Saved as file ~undo.max
+Wed Jan 08 10:28:13 Saved as file ~undo.max
+Wed Jan 08 10:28:23 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 10:32:21 Saved as file ~undo.max
+Wed Jan 08 10:33:00 Saved as file ~undo.max
+Wed Jan 08 10:33:37 Saved as file ~undo.max
+Wed Jan 08 10:34:42 Saved as file ~undo.max
+Wed Jan 08 10:35:07 Saved as file BACKUP1.MAX
+Wed Jan 08 10:35:32 Saved as file ~undo.max
+Wed Jan 08 10:35:57 Saved as file ~undo.max
+Wed Jan 08 10:36:15 Saved as file ~undo.max
+Wed Jan 08 10:36:44 Saved as file ~undo.max
+Wed Jan 08 10:36:56 Saved as file ~undo.max
+Wed Jan 08 10:37:46 Saved as file ~undo.max
+Wed Jan 08 10:38:37 Saved as file ~undo.max
+Wed Jan 08 10:40:23 Saved as file ~undo.max
+Wed Jan 08 10:40:51 Saved as file ~undo.max
+Wed Jan 08 10:42:36 Saved as file ~undo.max
+Wed Jan 08 10:43:21 Saved as file ~undo.max
+Wed Jan 08 10:43:33 Saved as file ~undo.max
+Wed Jan 08 10:44:17 Saved as file ~undo.max
+Wed Jan 08 10:45:07 Saved as file BACKUP1.MAX
+Wed Jan 08 10:45:13 Saved as file ~undo.max
+Wed Jan 08 10:45:20 Saved as file ~undo.max
+Wed Jan 08 10:45:58 Saved as file ~undo.max
+Wed Jan 08 10:48:56 Saved as file ~undo.max
+Wed Jan 08 10:50:56 Saved as file ~undo.max
+Wed Jan 08 10:54:27 Saved as file ~undo.max
+Wed Jan 08 10:55:07 Saved as file BACKUP1.MAX
+Wed Jan 08 10:55:42 Saved as file ~undo.max
+Wed Jan 08 10:57:00 Saved as file ~undo.max
+Wed Jan 08 11:05:08 Saved as file BACKUP1.MAX
+Wed Jan 08 11:05:39 Saved as file BACKUP1.MAX
+Wed Jan 08 11:05:40 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:05:41 UserDiv from Layout.INI for AutoECO: 60
+Wed Jan 08 11:05:41 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:05:41 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Wed Jan 08 11:05:41 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Wed Jan 08 11:05:41 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:05:41 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:06:36 Saved as file BACKUP1.MAX
+Wed Jan 08 11:06:37 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:06:37 UserDiv from Layout.INI for AutoECO: 60
+Wed Jan 08 11:06:37 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:06:37 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Wed Jan 08 11:06:37 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Wed Jan 08 11:06:37 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:06:37 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:07:37 Saved as file ~undo.max
+Wed Jan 08 11:08:13 Saved as file ~undo.max
+Wed Jan 08 11:08:23 Saved as file ~undo.max
+Wed Jan 08 11:08:36 Saved as file ~undo.max
+Wed Jan 08 11:09:28 Saved as file ~undo.max
+Wed Jan 08 11:12:05 Saved as file BACKUP1.MAX
+Wed Jan 08 11:12:06 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:12:08 UserDiv from Layout.INI for AutoECO: 60
+Wed Jan 08 11:12:09 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:12:10 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 11:12:10 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Wed Jan 08 11:12:11 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Wed Jan 08 11:12:11 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Wed Jan 08 11:12:12 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Wed Jan 08 11:12:12 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Wed Jan 08 11:12:13 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Wed Jan 08 11:12:13 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Wed Jan 08 11:12:14 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Wed Jan 08 11:12:14 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Wed Jan 08 11:12:15 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Wed Jan 08 11:12:16 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Wed Jan 08 11:12:16 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Wed Jan 08 11:12:17 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Wed Jan 08 11:12:18 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Wed Jan 08 11:12:19 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Wed Jan 08 11:12:20 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Wed Jan 08 11:12:21 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Wed Jan 08 11:12:22 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Wed Jan 08 11:12:23 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Wed Jan 08 11:12:24 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Wed Jan 08 11:12:25 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Wed Jan 08 11:12:26 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Wed Jan 08 11:12:27 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Wed Jan 08 11:12:28 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Wed Jan 08 11:12:29 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Wed Jan 08 11:12:29 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Wed Jan 08 11:12:30 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Wed Jan 08 11:12:30 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Wed Jan 08 11:12:31 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Wed Jan 08 11:12:31 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Wed Jan 08 11:12:32 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Wed Jan 08 11:12:32 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Wed Jan 08 11:12:33 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Wed Jan 08 11:12:34 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Wed Jan 08 11:12:34 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Wed Jan 08 11:12:35 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Wed Jan 08 11:12:35 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Wed Jan 08 11:12:36 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Wed Jan 08 11:12:37 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Wed Jan 08 11:12:38 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Wed Jan 08 11:12:39 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Wed Jan 08 11:12:40 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Wed Jan 08 11:12:41 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Wed Jan 08 11:12:42 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Wed Jan 08 11:12:43 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Wed Jan 08 11:12:44 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Wed Jan 08 11:12:45 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Wed Jan 08 11:12:46 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Wed Jan 08 11:12:47 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Wed Jan 08 11:12:48 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Wed Jan 08 11:12:49 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Wed Jan 08 11:12:50 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Wed Jan 08 11:12:51 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:12:52 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:13:19 Saved as file ~undo.max
+Wed Jan 08 11:14:56 Saved as file ~undo.max
+Wed Jan 08 11:15:16 Saved as file ~undo.max
+Wed Jan 08 11:15:38 Saved as file BACKUP1.MAX
+Wed Jan 08 11:16:12 Saved as file ~undo.max
+Wed Jan 08 11:17:05 Saved as file ~undo.max
+Wed Jan 08 11:18:10 Saved as file ~undo.max
+Wed Jan 08 11:18:34 Saved as file ~undo.max
+Wed Jan 08 11:18:43 Saved as file ~undo.max
+Wed Jan 08 11:19:34 Saved as file ~undo.max
+Wed Jan 08 11:19:40 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:21:52 Saved as file ~undo.max
+Wed Jan 08 11:22:08 Saved as file ~undo.max
+Wed Jan 08 11:23:42 Saved as file ~undo.max
+Wed Jan 08 11:23:56 Saved as file ~undo.max
+Wed Jan 08 11:24:39 Saved as file ~undo.max
+Wed Jan 08 11:25:38 Saved as file BACKUP1.MAX
+Wed Jan 08 11:28:16 Saved as file ~undo.max
+Wed Jan 08 11:28:51 Saved as file ~undo.max
+Wed Jan 08 11:29:35 Saved as file ~undo.max
+Wed Jan 08 11:32:19 Saved as file ~undo.max
+Wed Jan 08 11:32:24 Saved as file ~undo.max
+Wed Jan 08 11:34:35 Saved as file ~undo.max
+Wed Jan 08 11:35:39 Saved as file BACKUP1.MAX
+Wed Jan 08 11:36:05 Saved as file ~undo.max
+Wed Jan 08 11:37:22 Saved as file ~undo.max
+Wed Jan 08 11:38:17 Saved as file ~undo.max
+Wed Jan 08 11:39:24 Saved as file ~undo.max
+Wed Jan 08 11:39:45 Saved as file ~undo.max
+Wed Jan 08 11:41:33 Saved as file BACKUP1.MAX
+Wed Jan 08 11:41:34 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:41:36 UserDiv from Layout.INI for AutoECO: 60
+Wed Jan 08 11:41:37 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:41:38 Loaded file E:\PROGRAM FILE OF STUDY\ORCAD\LAYOUT\LIBRARY\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Wed Jan 08 11:41:38 Loaded file e:\program file of study\Orcad\Layout\library\BCON100T.llb
+Wed Jan 08 11:41:39 Loaded file e:\program file of study\Orcad\Layout\library\BCON156T.llb
+Wed Jan 08 11:41:39 Loaded file e:\program file of study\Orcad\Layout\library\BGA.llb
+Wed Jan 08 11:41:40 Loaded file e:\program file of study\Orcad\Layout\library\CLCC.llb
+Wed Jan 08 11:41:40 Loaded file e:\program file of study\Orcad\Layout\library\DCON050T.llb
+Wed Jan 08 11:41:41 Loaded file e:\program file of study\Orcad\Layout\library\DCON085T.llb
+Wed Jan 08 11:41:41 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050F.llb
+Wed Jan 08 11:41:42 Loaded file e:\program file of study\Orcad\Layout\library\DIMM050T.llb
+Wed Jan 08 11:41:42 Loaded file e:\program file of study\Orcad\Layout\library\DIN.llb
+Wed Jan 08 11:41:43 Loaded file e:\program file of study\Orcad\Layout\library\DIP100B.llb
+Wed Jan 08 11:41:43 Loaded file e:\program file of study\Orcad\Layout\library\DIP100T.llb
+Wed Jan 08 11:41:44 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT.llb
+Wed Jan 08 11:41:44 Loaded file e:\program file of study\Orcad\Layout\library\DSUBT_HD.LLB
+Wed Jan 08 11:41:45 Loaded file e:\program file of study\Orcad\Layout\library\ECON100T.llb
+Wed Jan 08 11:41:45 Loaded file e:\program file of study\Orcad\Layout\library\FBUS.llb
+Wed Jan 08 11:41:46 Loaded file e:\program file of study\Orcad\Layout\library\ISA.llb
+Wed Jan 08 11:41:46 Loaded file e:\program file of study\Orcad\Layout\library\JUMPER.LLB
+Wed Jan 08 11:41:47 Loaded file e:\program file of study\Orcad\Layout\library\LAYOUT.llb
+Wed Jan 08 11:41:47 Loaded file e:\program file of study\Orcad\Layout\library\LCON100T.llb
+Wed Jan 08 11:41:48 Loaded file e:\program file of study\Orcad\Layout\library\PC104.llb
+Wed Jan 08 11:41:48 Loaded file e:\program file of study\Orcad\Layout\library\PCI.llb
+Wed Jan 08 11:41:49 Loaded file e:\program file of study\Orcad\Layout\library\PCON100T.llb
+Wed Jan 08 11:41:50 Loaded file e:\program file of study\Orcad\Layout\library\PCON156T.llb
+Wed Jan 08 11:41:50 Loaded file e:\program file of study\Orcad\Layout\library\PGA.llb
+Wed Jan 08 11:41:51 Loaded file e:\program file of study\Orcad\Layout\library\PLCC.llb
+Wed Jan 08 11:41:52 Loaded file e:\program file of study\Orcad\Layout\library\QUAD.llb
+Wed Jan 08 11:41:53 Loaded file e:\program file of study\Orcad\Layout\library\QUADB.llb
+Wed Jan 08 11:41:54 Loaded file e:\program file of study\Orcad\Layout\library\RELAY.llb
+Wed Jan 08 11:41:55 Loaded file e:\program file of study\Orcad\Layout\library\RF.llb
+Wed Jan 08 11:41:56 Loaded file e:\program file of study\Orcad\Layout\library\SBUS.llb
+Wed Jan 08 11:41:57 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050F.llb
+Wed Jan 08 11:41:58 Loaded file e:\program file of study\Orcad\Layout\library\SIMM050T.llb
+Wed Jan 08 11:41:58 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100F.llb
+Wed Jan 08 11:41:59 Loaded file e:\program file of study\Orcad\Layout\library\SIMM100T.llb
+Wed Jan 08 11:42:01 Loaded file e:\program file of study\Orcad\Layout\library\SIP.llb
+Wed Jan 08 11:42:02 Loaded file e:\program file of study\Orcad\Layout\library\SM.llb
+Wed Jan 08 11:42:03 Loaded file e:\program file of study\Orcad\Layout\library\SOG.llb
+Wed Jan 08 11:42:04 Loaded file e:\program file of study\Orcad\Layout\library\SOJ.llb
+Wed Jan 08 11:42:04 Loaded file e:\program file of study\Orcad\Layout\library\STIFF.llb
+Wed Jan 08 11:42:05 Loaded file e:\program file of study\Orcad\Layout\library\TELE.llb
+Wed Jan 08 11:42:05 Loaded file e:\program file of study\Orcad\Layout\library\TM_AXIAL.llb
+Wed Jan 08 11:42:06 Loaded file e:\program file of study\Orcad\Layout\library\TM_CAP_P.llb
+Wed Jan 08 11:42:07 Loaded file e:\program file of study\Orcad\Layout\library\TM_CYLND.llb
+Wed Jan 08 11:42:07 Loaded file e:\program file of study\Orcad\Layout\library\TM_DIODE.llb
+Wed Jan 08 11:42:08 Loaded file e:\program file of study\Orcad\Layout\library\TM_DISC.llb
+Wed Jan 08 11:42:08 Loaded file e:\program file of study\Orcad\Layout\library\TM_RAD.llb
+Wed Jan 08 11:42:09 Loaded file e:\program file of study\Orcad\Layout\library\TO.llb
+Wed Jan 08 11:42:09 Loaded file e:\program file of study\Orcad\Layout\library\TRAINING.LLB
+Wed Jan 08 11:42:10 Loaded file e:\program file of study\Orcad\Layout\library\VRES.llb
+Wed Jan 08 11:42:10 Loaded file e:\program file of study\Orcad\Layout\library\WCON100T.llb
+Wed Jan 08 11:42:11 Loaded file e:\program file of study\Orcad\Layout\library\XT.llb
+Wed Jan 08 11:42:12 Loaded file e:\program file of study\Orcad\Layout\library\ZIGZAG.llb
+Wed Jan 08 11:42:13 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:42:14 Loaded file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:44:06 Saved as file ~undo.max
+Wed Jan 08 11:45:08 Saved as file ~undo.max
+Wed Jan 08 11:45:26 Saved as file ~undo.max
+Wed Jan 08 11:46:09 Saved as file BACKUP1.MAX
+Wed Jan 08 11:47:02 Saved as file ~undo.max
+Wed Jan 08 11:47:27 Saved as file ~undo.max
+Wed Jan 08 11:49:14 Saved as file ~undo.max
+Wed Jan 08 11:49:28 Saved as file ~undo.max
+Wed Jan 08 11:49:31 Saved as file ~undo.max
+Wed Jan 08 11:50:20 Saved as file ~undo.max
+Wed Jan 08 11:51:19 Saved as file ~undo.max
+Wed Jan 08 11:51:34 Saved as file ~undo.max
+Wed Jan 08 11:52:33 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:53:34 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:54:50 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:54:52 Saved as file E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\RE2\RE2\RE2.MAX
+Wed Jan 08 11:56:09 Saved as file BACKUP1.MAX
+Wed Jan 08 13:17:26 Saved as file ~undo.max
+Wed Jan 08 13:18:22 Saved as file ~undo.max
+Wed Jan 08 13:18:51 Saved as file ~undo.max
+Wed Jan 08 13:19:15 Saved as file ~undo.max
+Wed Jan 08 13:20:09 Saved as file ~undo.max
+Wed Jan 08 13:20:15 Saved as file ~undo.max
+Wed Jan 08 13:20:19 Saved as file ~undo.max
+Wed Jan 08 13:20:22 Saved as file ~undo.max
+Wed Jan 08 13:20:34 Saved as file ~undo.max
+Wed Jan 08 13:20:39 Saved as file ~undo.max
+Wed Jan 08 13:22:31 Saved as file ~undo.max
+Wed Jan 08 13:23:19 Saved as file ~undo.max
+Wed Jan 08 13:23:25 Saved as file ~undo.max
+Wed Jan 08 13:24:30 Saved as file ~undo.max
+Wed Jan 08 13:24:59 Saved as file ~undo.max
+Wed Jan 08 13:25:50 Saved as file ~undo.max
+Wed Jan 08 13:26:21 Saved as file ~undo.max
+Wed Jan 08 13:27:15 Saved as file ~undo.max
+Wed Jan 08 13:27:18 Saved as file BACKUP1.MAX
+Wed Jan 08 13:28:52 Saved as file ~undo.max
+Wed Jan 08 13:30:46 Saved as file ~undo.max
+Wed Jan 08 13:30:55 Saved as file ~undo.max
+Wed Jan 08 13:31:16 Saved as file ~undo.max
+Wed Jan 08 13:31:31 Saved as file ~undo.max
+Wed Jan 08 13:32:30 Saved as file ~undo.max
+Wed Jan 08 13:32:35 Saved as file ~undo.max
+Wed Jan 08 13:33:05 Saved as file ~undo.max
+Wed Jan 08 13:33:15 Saved as file ~undo.max
+Wed Jan 08 13:34:04 Saved as file ~undo.max
+Wed Jan 08 13:35:16 Saved as file ~undo.max
+Wed Jan 08 13:37:19 Saved as file BACKUP1.MAX
+Wed Jan 08 13:38:20 Saved as file ~undo.max
+Wed Jan 08 13:40:04 Saved as file ~undo.max
+Wed Jan 08 13:42:02 Saved as file ~undo.max
+Wed Jan 08 13:44:57 Saved as file ~undo.max
+Wed Jan 08 13:45:56 Saved as file ~undo.max
+Wed Jan 08 13:46:07 Saved as file ~undo.max
+Wed Jan 08 13:46:41 Saved as file ~undo.max
+Wed Jan 08 13:46:44 Saved as file ~undo.max
+Wed Jan 08 13:47:19 Saved as file BACKUP1.MAX
+Wed Jan 08 13:48:09 Saved as file ~undo.max
+Wed Jan 08 13:48:24 Saved as file ~undo.max
+Wed Jan 08 13:58:19 Saved as file BACKUP1.MAX
+Wed Jan 08 13:59:13 Saved as file ~undo.max
+Wed Jan 08 13:59:30 Saved as file ~undo.max
+Wed Jan 08 13:59:47 Saved as file ~undo.max
+Wed Jan 08 14:00:10 Saved as file ~undo.max
+Wed Jan 08 14:00:14 Saved as file C:\USERS\WIN7-64 SP1\DROPBOX\HUY & KHOA\CONTROL MADE CAR\RE2\RE2.MAX
+Wed Jan 08 14:00:45 Saved as file ~undo.max
+Wed Jan 08 14:01:25 Saved as file ~undo.max
+Wed Jan 08 14:07:55 Saved as file C:\USERS\WIN7-64 SP1\DROPBOX\HUY & KHOA\CONTROL MADE CAR\RE2\RE2.MAX
+Wed Jan 08 14:08:37 Saved as file C:\USERS\WIN7-64 SP1\DROPBOX\HUY & KHOA\CONTROL MADE CAR\RE2\RE2.MAX
+Wed Jan 08 14:40:14 Saved as file BACKUP1.MAX
+Wed Jan 08 14:41:56 Saved as file ~undo.max
+Wed Jan 08 14:50:14 Saved as file BACKUP1.MAX
+Wed Jan 08 19:20:04 Saved as file BACKUP1.MAX
+Wed Jan 08 19:30:04 Saved as file BACKUP1.MAX
+Wed Jan 08 19:40:04 Saved as file BACKUP1.MAX
+Wed Jan 08 19:50:08 Saved as file BACKUP1.MAX
+Wed Jan 08 20:00:06 Saved as file BACKUP1.MAX
+Wed Jan 08 20:10:06 Saved as file BACKUP1.MAX
+Wed Jan 08 20:20:06 Saved as file BACKUP1.MAX
+Wed Jan 08 20:30:06 Saved as file BACKUP1.MAX
+Wed Jan 08 20:40:07 Saved as file BACKUP1.MAX
+Wed Jan 08 20:50:07 Saved as file BACKUP1.MAX
+Wed Jan 08 21:00:07 Saved as file BACKUP1.MAX
+Wed Jan 08 21:10:08 Saved as file BACKUP1.MAX
+Wed Jan 08 21:20:07 Saved as file BACKUP1.MAX
+Wed Jan 08 21:30:11 Saved as file BACKUP1.MAX
+Wed Jan 08 21:40:08 Saved as file BACKUP1.MAX
+Wed Jan 08 21:50:08 Saved as file BACKUP1.MAX
+Thu Jan 09 09:56:26 Saved as file ~undo.max
+Thu Jan 09 10:06:08 Saved as file BACKUP1.MAX
+Thu Jan 09 10:16:08 Saved as file BACKUP1.MAX
+Thu Jan 09 10:26:08 Saved as file BACKUP1.MAX
+Thu Jan 09 10:36:09 Saved as file BACKUP1.MAX
+Thu Jan 09 10:46:09 Saved as file BACKUP1.MAX
+Thu Jan 09 10:56:09 Saved as file BACKUP1.MAX
+Thu Jan 09 11:06:09 Saved as file BACKUP1.MAX
+Thu Jan 09 11:16:10 Saved as file BACKUP1.MAX
+Thu Jan 09 11:26:10 Saved as file BACKUP1.MAX
+Thu Jan 09 11:36:10 Saved as file BACKUP1.MAX
+Thu Jan 09 11:46:11 Saved as file BACKUP1.MAX
+Thu Jan 09 11:56:11 Saved as file BACKUP1.MAX
+Thu Jan 09 12:06:11 Saved as file BACKUP1.MAX
+Thu Jan 09 12:16:11 Saved as file BACKUP1.MAX
+Thu Jan 09 12:26:12 Saved as file BACKUP1.MAX
+Thu Jan 09 13:07:16 Saved as file BACKUP1.MAX
+Thu Jan 09 13:17:11 Saved as file BACKUP1.MAX
+Thu Jan 09 13:27:11 Saved as file BACKUP1.MAX
+Thu Jan 09 13:37:11 Saved as file BACKUP1.MAX
+Thu Jan 09 13:47:11 Saved as file BACKUP1.MAX
+Thu Jan 09 13:57:11 Saved as file BACKUP1.MAX
+Thu Jan 09 14:07:12 Saved as file BACKUP1.MAX
+Thu Jan 09 14:17:12 Saved as file BACKUP1.MAX
+Thu Jan 09 14:27:12 Saved as file BACKUP1.MAX
+Thu Jan 09 14:37:13 Saved as file BACKUP1.MAX
+Thu Jan 09 14:47:13 Saved as file BACKUP1.MAX
+Thu Jan 09 14:57:13 Saved as file BACKUP1.MAX
+Thu Jan 09 15:07:14 Saved as file BACKUP1.MAX
+Thu Jan 09 15:17:14 Saved as file BACKUP1.MAX
+Thu Jan 09 15:27:14 Saved as file BACKUP1.MAX
+Thu Jan 09 15:37:14 Saved as file BACKUP1.MAX
+Thu Jan 09 15:47:15 Saved as file BACKUP1.MAX
+Thu Jan 09 15:57:15 Saved as file BACKUP1.MAX
+Thu Jan 09 16:07:15 Saved as file BACKUP1.MAX
+Thu Jan 09 16:17:16 Saved as file BACKUP1.MAX
+Thu Jan 09 16:27:16 Saved as file BACKUP1.MAX
+Thu Jan 09 18:31:05 Saved as file BACKUP1.MAX
+Thu Jan 09 18:41:06 Saved as file BACKUP1.MAX
+Thu Jan 09 18:51:06 Saved as file BACKUP1.MAX
+Thu Jan 09 19:01:06 Saved as file BACKUP1.MAX
+Thu Jan 09 19:11:06 Saved as file BACKUP1.MAX
+Thu Jan 09 19:21:06 Saved as file BACKUP1.MAX
+Thu Jan 09 19:31:07 Saved as file BACKUP1.MAX
+Thu Jan 09 20:05:21 Saved as file BACKUP1.MAX
+Thu Jan 09 20:15:21 Saved as file BACKUP1.MAX
+Thu Jan 09 20:25:22 Saved as file BACKUP1.MAX
+Thu Jan 09 20:35:22 Saved as file BACKUP1.MAX
+Thu Jan 09 20:45:22 Saved as file BACKUP1.MAX
+Thu Jan 09 20:55:22 Saved as file BACKUP1.MAX
+Thu Jan 09 21:05:23 Saved as file BACKUP1.MAX
+Thu Jan 09 21:15:23 Saved as file BACKUP1.MAX
+Thu Jan 09 21:25:23 Saved as file BACKUP1.MAX
+Thu Jan 09 21:35:24 Saved as file BACKUP1.MAX
+Thu Jan 09 21:45:24 Saved as file BACKUP1.MAX
+Thu Jan 09 21:55:24 Saved as file BACKUP1.MAX
+Thu Jan 09 22:05:24 Saved as file BACKUP1.MAX
+Thu Jan 09 22:15:25 Saved as file BACKUP1.MAX
+Thu Jan 09 22:25:25 Saved as file BACKUP1.MAX
+Thu Jan 09 22:35:25 Saved as file BACKUP1.MAX
+Thu Jan 09 22:45:26 Saved as file BACKUP1.MAX
+Fri Jan 10 09:35:54 Loaded file C:\USERS\KHOA.KHOA-PC\DROPBOX\HUY & KHOA\CONTROL MADE CAR\RE2\RE2.MAX
+Fri Jan 10 09:38:32 Saved as file ~undo.max
+Fri Jan 10 09:38:32 Saved as file ~undo.max
+Fri Jan 10 09:46:03 Saved as file BACKUP1.MAX
+Fri Jan 10 09:56:04 Saved as file BACKUP1.MAX
+Fri Jan 10 10:06:04 Saved as file BACKUP1.MAX
+Fri Jan 10 10:16:04 Saved as file BACKUP1.MAX
+Fri Jan 10 10:26:04 Saved as file BACKUP1.MAX
+Fri Jan 10 10:36:05 Saved as file BACKUP1.MAX
+Fri Jan 10 10:46:05 Saved as file BACKUP1.MAX
+Fri Jan 10 10:56:05 Saved as file BACKUP1.MAX
+Fri Jan 10 11:06:06 Saved as file BACKUP1.MAX
+Fri Jan 10 11:16:06 Saved as file BACKUP1.MAX
+Fri Jan 10 11:26:06 Saved as file BACKUP1.MAX
+Fri Jan 10 11:36:06 Saved as file BACKUP1.MAX
+Fri Jan 10 11:46:06 Saved as file BACKUP1.MAX
+Fri Jan 10 12:41:11 Saved as file BACKUP1.MAX
+Fri Jan 10 12:51:11 Saved as file BACKUP1.MAX
+Fri Jan 10 13:01:12 Saved as file BACKUP1.MAX
+Fri Jan 10 13:11:12 Saved as file BACKUP1.MAX
+Fri Jan 10 13:21:12 Saved as file BACKUP1.MAX
+Fri Jan 10 13:31:13 Saved as file BACKUP1.MAX
+Fri Jan 10 13:41:13 Saved as file BACKUP1.MAX
+Fri Jan 10 13:51:13 Saved as file BACKUP1.MAX
+Fri Jan 10 14:01:13 Saved as file BACKUP1.MAX
+Fri Jan 10 14:11:14 Saved as file BACKUP1.MAX
+Fri Jan 10 14:21:14 Saved as file BACKUP1.MAX
+Fri Jan 10 14:31:14 Saved as file BACKUP1.MAX
+Fri Jan 10 14:41:15 Saved as file BACKUP1.MAX
+Fri Jan 10 14:51:15 Saved as file BACKUP1.MAX
+Fri Jan 10 15:01:15 Saved as file BACKUP1.MAX
+Fri Jan 10 15:11:15 Saved as file BACKUP1.MAX
+Fri Jan 10 16:11:51 Saved as file BACKUP1.MAX
+Fri Jan 10 16:21:51 Saved as file BACKUP1.MAX
+Fri Jan 10 16:31:52 Saved as file BACKUP1.MAX
+Fri Jan 10 16:41:52 Saved as file BACKUP1.MAX
+Fri Jan 10 16:51:52 Saved as file BACKUP1.MAX
+Fri Jan 10 17:01:52 Saved as file BACKUP1.MAX
+Fri Jan 10 17:11:53 Saved as file BACKUP1.MAX
+Fri Jan 10 17:21:53 Saved as file BACKUP1.MAX
+Fri Jan 10 17:31:53 Saved as file BACKUP1.MAX
+Fri Jan 10 17:41:54 Saved as file BACKUP1.MAX
+Fri Jan 10 17:51:54 Saved as file BACKUP1.MAX
+Fri Jan 10 18:01:54 Saved as file BACKUP1.MAX
+Fri Jan 10 18:11:55 Saved as file BACKUP1.MAX
+Fri Jan 10 18:21:55 Saved as file BACKUP1.MAX
+Fri Jan 10 18:31:55 Saved as file BACKUP1.MAX
+Fri Jan 10 18:41:55 Saved as file BACKUP1.MAX
+Fri Jan 10 18:51:56 Saved as file BACKUP1.MAX
+Fri Jan 10 19:01:56 Saved as file BACKUP1.MAX
+Fri Jan 10 19:11:56 Saved as file BACKUP1.MAX
+Fri Jan 10 19:21:57 Saved as file BACKUP1.MAX
+Fri Jan 10 19:31:57 Saved as file BACKUP1.MAX
+Fri Jan 10 19:41:57 Saved as file BACKUP1.MAX
+Fri Jan 10 19:51:57 Saved as file BACKUP1.MAX
+Fri Jan 10 20:01:58 Saved as file BACKUP1.MAX
+Fri Jan 10 20:11:58 Saved as file BACKUP1.MAX
+Fri Jan 10 20:21:58 Saved as file BACKUP1.MAX
+Fri Jan 10 20:31:59 Saved as file BACKUP1.MAX
+Fri Jan 10 20:41:59 Saved as file BACKUP1.MAX
+Fri Jan 10 20:51:59 Saved as file BACKUP1.MAX
+Fri Jan 10 21:01:59 Saved as file BACKUP1.MAX
+Fri Jan 10 21:12:00 Saved as file BACKUP1.MAX
+Fri Jan 10 21:22:00 Saved as file BACKUP1.MAX
+Fri Jan 10 21:32:00 Saved as file BACKUP1.MAX
+Fri Jan 10 21:42:01 Saved as file BACKUP1.MAX
+Fri Jan 10 21:52:01 Saved as file BACKUP1.MAX
+Fri Jan 10 22:02:01 Saved as file BACKUP1.MAX
+Fri Jan 10 22:12:02 Saved as file BACKUP1.MAX
+Fri Jan 10 22:22:02 Saved as file BACKUP1.MAX
+Fri Jan 10 22:32:02 Saved as file BACKUP1.MAX
+Tue Feb 25 09:16:31 Saved as file BACKUP1.MAX
+Tue Feb 25 09:26:32 Saved as file BACKUP1.MAX
+Tue Feb 25 09:36:32 Saved as file BACKUP1.MAX

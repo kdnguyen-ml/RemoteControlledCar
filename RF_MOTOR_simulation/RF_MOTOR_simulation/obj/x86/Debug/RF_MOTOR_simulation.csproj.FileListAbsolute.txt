@@ -1,0 +1,11 @@
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.Form1.resources
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.Properties.Resources.resources
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\bin\Debug\RF_MOTOR_simulation.exe
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\bin\Debug\RF_MOTOR_simulation.pdb
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.exe
+E:\Khoa\Project Study\Visual Studio 10.0\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.pdb
+C:\Users\Win7-64 SP1\Dropbox\Huy & Khoa\Control made car\Complete product\Version 1_Car+RF\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.exe
+C:\Users\Win7-64 SP1\Dropbox\Huy & Khoa\Control made car\Complete product\Version 1_Car+RF\RF_MOTOR_simulation\RF_MOTOR_simulation\obj\x86\Debug\RF_MOTOR_simulation.pdb

@@ -1,0 +1,1 @@
+"../Basic_config.c" "../LCD.c" "../Motor.c" "../NRF24L01.c" "../RF_Car_Slave.c" "../UART.c" 

@@ -1,0 +1,121 @@
+(ExpressProject "Re2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\re2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "E:\Khoa\Project Study\Project Combination\RF+MadeCar\Re2\Re2\RE2.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "RE2.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\re2.drc"
+      (Type "Report"))
+    (File ".\re2.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("CONG TAC 3 CHAN"
+      (FullPartName "CONG TAC 3 CHAN.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    ("LED 5 LY"
+      (FullPartName "LED 5 LY.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    ("TU PI"
+      (FullPartName "TU PI.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    ("TU 100U POL"
+      (FullPartName "TU 100U POL.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    ("BIEN TRO"
+      (FullPartName "BIEN TRO.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    (7805
+      (FullPartName "7805.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\3. [C8] PIF.MSP430G2553_24022013_LIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8"
+      (FullPartName "HEADER 8.Normal")
+      (LibraryName "D:\WORK\SIMULATOR\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "D:\WORK\SIMULATOR\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3"
+      (FullPartName "HEADER 3.Normal")
+      (LibraryName "D:\WORK\SIMULATOR\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4X2"
+      (FullPartName "HEADER 4X2.Normal")
+      (LibraryName
+         "E:\PROGRAM FILE OF STUDY\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\re2.dsn")
+      (Path "Design Resources" ".\re2.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\re2.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 395"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 470 50 495")
+        (Scroll "0 131")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\KHOA\PROJECT STUDY\PROJECT COMBINATION\RF+MADECAR\VERSION 1_CAR+RF\LAYOUT_RE2\RE2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory
+     "E:\Program File of Study\Orcad\Capture\Library"))
