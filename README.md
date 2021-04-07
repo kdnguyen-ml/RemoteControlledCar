@@ -1,2 +1,2 @@
 # RemoteControlledCar
-Wireless module nRF24L01
+Electronic component: Wireless module nRF24L01, servo motor, TIVA MCU, encoder.
